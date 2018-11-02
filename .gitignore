@@ -1,0 +1,10 @@
+### Integration ###
+.allure/
+
+### Common Files ###
+.DS_Store
+
+.gradle/
+.idea/
+out/
+g
